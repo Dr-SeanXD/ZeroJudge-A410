@@ -1,0 +1,2 @@
+You can use the formulas from the sample code to solve this equation. 
+For the output part, you can use printf("%.2f) to only output two decimal places.
